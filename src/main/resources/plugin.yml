@@ -1,0 +1,15 @@
+author: Ribesg
+main: ${project.groupId}.${project.name}
+name: ${project.name}
+description: ${project.description}
+url: ${project.url}
+version: ${project.version}
+
+load: POSTWORLD
+
+commands:
+  command:
+    description: Some Command
+    aliases: [com]
+    usage: |
+      /<command>
