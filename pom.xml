@@ -55,6 +55,7 @@
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
 				<configuration>
 					<source>1.7</source>
 					<target>1.7</target>
@@ -63,8 +64,8 @@
 			</plugin>
 			<plugin>
 				<groupId>com.google.code.maven-replacer-plugin</groupId>
-				<artifactId>maven-replacer-plugin</artifactId>
-				<version>1.4.1</version>
+				<artifactId>replacer</artifactId>
+				<version>1.5.2</version>
 				<executions>
 					<execution>
 						<phase>prepare-package</phase>
@@ -88,6 +89,21 @@
 				<artifactId>truezip-maven-plugin</artifactId>
 				<version>1.1</version>
 				<executions>
+					<execution>
+						<id>remove-a-file</id>
+						<goals>
+							<goal>remove</goal>
+						</goals>
+						<phase>package</phase>
+						<configuration>
+							<fileset>
+								<directory>target/${project.name}.jar</directory>
+								<includes>
+									<include>META-INF</include>
+								</includes>
+							</fileset>
+						</configuration>
+					</execution>
 					<execution>
 						<id>copy-into</id>
 						<goals>
