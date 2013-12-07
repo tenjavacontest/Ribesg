@@ -38,6 +38,9 @@ public class R2G2CommandExecutor implements CommandExecutor {
 		if (!sender.isOp() && !sender.hasPermission(R2G2_PERMISSION)) {
 			sender.sendMessage(plugin.getHeader() + ChatColor.RED + "Sorry, you don't have the right to be awesome!");
 			return true;
+		} else if (!(sender instanceof Player)) {
+			sender.sendMessage(plugin.getHeader() + ChatColor.RED + "Command only available for Players!");
+			return true;
 		} else if (args.length != 1) {
 			return false;
 		} else {

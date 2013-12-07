@@ -36,3 +36,7 @@ Single test command:
 * /R2G2 getIG -> Gets a Improbability Generator
 * /R2G2 getTowel -> Useless, get a Towel
 * /R2G2 getR2G2 -> Get the R2G2!
+
+Permission
+----------
+The permission for the command is **r2g2.cmd** but any Op can use it.
