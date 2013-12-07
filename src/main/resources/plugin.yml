@@ -8,8 +8,7 @@ version: ${project.version}
 load: POSTWORLD
 
 commands:
-  command:
-    description: Some Command
-    aliases: [com]
+  R2G2:
+    description: Debug/Test command
     usage: |
-      /<command>
+      /<command> <getIG|getTowel|getR2G2>

@@ -1,0 +1,85 @@
+Minecraft was originally called Cave Game. Notch changed it to Minecraft: Order of the Stone, which was then shortened to Minecraft.
+Minecraft is a game.
+Minecraft was named Minecraft before it involved mining or crafting.
+Creepers were made from a failed pig model.
+Mojang sold over 3,000,000 premium Minecraft accounts before the game was released.
+Minecraft uses LWJGL, the Light-weight Java Game Library.
+A lot of Minecraft's features, including wolves, pistons, long grass, and Ender chests, were based on mods/plugins which became very popular.
+When a spider is spawned, there is a 1% chance of spawning a skeleton on top of it, forming a spider jockey.
+Minecraft uses textures from one of Notch's earlier games, RubyDung.
+On the subject of the pronunciation of "Mojang", Notch stated that he pronounced it "Mow-djang" when speaking in English, and "Mow-yang" when speaking in Swedish.
+In some early versions of Minecraft, the mouse buttons were reversed from the current setup; right-click removed blocks, and left-click placed blocks.
+When Hat Films contacted Mojang regarding the potential copyright issues of their Minecraft Let's Play series, Mojang liked their videos so much that they decided to hire Hat Films to create the official trailers.
+When viewing the title screen, there is a 1 in 10,000 chance that the title will say "Minceraft" instead of "Minecraft".
+Smelting logs and using the charcoal to smelt other items is more efficient than just smelting with the logs.
+Notch's first blog post, "Cave Game tech demo", was about early Minecraft development.
+When Bethesda, the creators of the Elder Scrolls series, tried to sue Mojang for the attempt to trademark "Scrolls", Notch responded by challenging them to a game of Quake 3. If Mojang won, they would get to keep the trademark on Scrolls and Bethesda would drop all charges. If Bethesda won, Notch would rename Scrolls.
+Mojang uses a Tumblr blog for the updates shown in the launcher. You can get the updates on your Dashboard by following this blog.
+In some versions of Minecraft between the original "Cave Game" and Infdev, left-click was used to place/break blocks, and right-click switched between build/destroy mode.
+Most Minecraft servers are hosted on port 25565, which is the default port for Minecraft.
+Minecraft once had mobs called Steve, Black Steve, Beast Boy, and Rana. These mobs didn't use square models, and were created by Dock, who left Minecaft development.
+Naming a spawn egg "Dinnerbone" or "Grumm" will cause animals spawned from it to be upside-down.
+Mobs can only be hostile towards one player at a time. If a creeper sees one player, it will not attack any other players, allowing them to approach it without it exploding. Attacking a mob will make it hostile towards you.
+Iron Golems will sometimes offer roses to young villagers.
+As of 1.5, Minecraft supports HD texture packs, as well as animated textures, without requiring OptiFine or MCPatcher. Some features, such as Random Mobs and Connected Textures, were not added.
+Clocks and compasses cannot be animated, because they interpret animation as the different states of their interfaces, and cycle through the frames according to the time (for clocks) or the direction the player is facing (for compasses).
+There are four gravity-affected blocks (excluding lit TNT*): gravel, sand, anvils, and Enderdragon eggs. Neither anvils nor Enderdragon eggs can be pushed by pistons.
+Until Beta 1.7, hitting a block of TNT would light it, making it impossible to collect TNT once it had been placed.
+The height limit was increased from 128 to 256 in 1.2.
+It is possible to make a TNT cannon which automatically reloads from a chest using hoppers and dispensers.
+Attempting to use a bed in the Nether or the End will cause an explosion more powerful than TNT.
+Notch has stated that the Enderdragon's name is Jean.
+Withers can blast through obsidian, but only on direct contact.
+Explosions underwater will not damage blocks. However, contrary to popular belief, they will damage entities, including players.
+When asked the player's name, Notch replied "Steve?". The question mark has since become part of Steve?'s name.
+The original Steve? skin had a beard, which was often mistaken for a mouth.
+Minecarts and boats can be destroyed faster using swords, just like mobs. The better the sword is, the faster the minecart/boat will break.
+With the use of certain Essentials's /spawnmob command or the /summon command, it is possible to spawn animals riding experience orbs.
+The animated background of the main menu in Minecraft is actually only six images in the form of a cube, which are blurred dynamically.
+Pumpkins can be worn as helmets. Wearing a pumpkin on your head won't reduce damage, but it will stop Endermen from turning hostile when looked at. They will still become hostile if attacked.
+Gold weapons and armour are actually quite weak, but are good for enchanting.
+Passive mobs aren't actually attracted to light. They tend to crowd around torches and other light sources during the night because they're the only places where passive mobs can spawn.
+Chain armour, which can be crafted from fire blocks, is better than gold armour, but not as good as iron.
+Zombies, skeletons, Wither Skeletons, and zombie pigmen have a high chance of spawning with pumpkins on their heads on Halloween. The pumpkins make them immune to sunlight.
+In certain alpha versions before Infdev, the player can spawn a Steve? by pressing G.
+Minecraft uses NBT (Named Binary Tag) to store most of its data, including save files and servers.dat. This is a basic data structure language with a number of types, which uses string-keyed (named) data elements to identify binary data items.
+Sugar cane was originally called "reeds", but the name was changed in Beta 1.2.
+Minecraft Beta 1.9 was never actually released. There were a number of 1.9 prereleases, then 1.0.
+While it is only possible to legitimately get up to 64 items in one stack, it is possible to have up to 255. However, this requires a mod or inventory editor.
+While most texture packs are 16x16, 32x32, or 64x64, they can be made 128x128, 256x256, 512x512, 1024x1024, etc., and even 8x8, 4x4, and 2x2. However, they can only be (2 * n)x(2 * n).
+Sleeping in a bed to reset your spawn point will not affect the location compasses point to. This is because sleeping in a bed sets the player's personal spawn point, while compasses point to the global (shared) spawn point.
+In early versions of Survival Test, the size of a stack was only limited by the maximum value of the data type. Blocks could be stacked far beyond 64 per slot.
+A hopper minecart can be disabled with a powered activator rail, and enabled with an unpowered activator rail. The effect persists even when the minecart is no longer on the activator rail.
+Before Minecraft 1.3, ice was unobtainable, even with Silk Touch.
+Notch stated that defining air as null, rather than an actual block, was his worst decision in Minecraft development. This was changed in Minecraft 1.7.
+In a brewing stand, a single ingredient can be added to three bottles at once. This makes brewing three potions at once much more efficient than brewing each one separately. This works even if the bottles contain different potions.
+When an egg is thrown, it has a 1/8 (12.5%) chance of spawning a baby chicken.
+Minecraft stores its sounds in Ogg Vorbis (.ogg) format.
+There are over 320 blocks and items in Minecraft.
+Snow golems have heads made of snow underneath their pumpkins.
+Someone buys a premium Minecraft account roughly every 36 seconds.
+Mojang was originally known as "Mojang Specifications", and was later changed to "Mojang AB".
+A bow with the Infinity enchantment requires at least one arrow to function.
+In Minecraft Classic, sand and gravel instantly appeared in the lowest place they could fall to with no falling animation.
+Being below Y=-64 (64 blocks below bedrock) will cause damage, even in Creative mode.
+The texture for lapis lazuli gained a border in 1.6.
+Online saving in Minecraft Classic doesn't work any more, nor do sounds.
+While the normal Ender Dragon only attacks by charging the player, the Ender Dragon in the Xbox 360 version of Minecraft attacks using projectiles and Ender Acid.
+Silverfish stone can be found underneath extreme hills, making mining and tunnelling in these areas more dangerous.
+When spawning a snow golem or iron golem, the pumpkins must be placed last.
+Ender Pearls can be used for teleportation. Throw the pearl, and you will be teleported to wherever it lands. This deals damage, and doesn't work in Creative mode.
+There are 65,536 blocks in a chunk.
+TNT minecarts will explode if they crash into each other or fall too far onto solid ground.
+The splash which claimed that Minecraft was dragon-free was changed to "Kind of dragon free!" when the Ender Dragon was added.
+It is possible to store 31,104 coal, iron, emeralds, gold, diamonds, or Redstone in a double chest in the form of solid blocks.
+If a player is killed by damage from Ender Pearl teleportation, the death message will say that they died from fall damage.
+Leaving a server and rejoining will cause any hostile Endermen and wolves to become neutral again.
+In Minecraft Beta 1.8, shockwave particles were added to explosions. Before then, the only visual effects were smoke particles.
+There are 16,777,216 possible colours for leather armour.
+Because NBT uses ID 10 (0x0A) for compound tags, and the root tag of an NBT file is usually a compound tag, a decompressed NBT file will be mistaken for a PCX image by some programs.
+The dots on the command block's texture are slightly off centre.
+Minecraft 1.0 was originally planned to be released on 11/11/11 (11/11/11 for Americans), but it was later changed to 'sometime the week after 11/11/11', and was released on the 18/11/11.
+While jungle saplings are usually grown into large trees by placing four saplings in a square, they can also be used individually to grow small jungle trees.
+Multiple item frames can be placed within the space of a single block, pointing in different directions.
+Jeb accidentally created full-height terrain while modifying the world generation code, and Notch suggested keeping it as the AMPLIFIED world type.
+Fence gates placed between cobblestone walls are lower than normal, to match the height of the wall.

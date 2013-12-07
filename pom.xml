@@ -5,13 +5,14 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>fr.ribesg.bukkit._NAME_</groupId>
-	<artifactId>_NAME_</artifactId>
+	<groupId>fr.ribesg.bukkit.r2g2</groupId>
+	<artifactId>R2G2</artifactId>
 	<packaging>jar</packaging>
 
 	<version>0.0-SNAPSHOT</version>
 
-	<name>_NAME_</name>
+	<name>R2G2</name>
+	<description>Ribesg's Rambunctious Guide to the Galaxy</description>
 	<url>https://github.com/tenjavacontest/Ribesg/tree/0800</url>
 
 	<properties>
@@ -47,6 +48,7 @@
 				<filtering>true</filtering>
 				<includes>
 					<include>plugin.yml</include>
+					<include>facts.txt</include>
 				</includes>
 			</resource>
 		</resources>
@@ -60,28 +62,6 @@
 					<source>1.7</source>
 					<target>1.7</target>
 					<encoding>${project.build.sourceEncoding}</encoding>
-				</configuration>
-			</plugin>
-			<plugin>
-				<groupId>com.google.code.maven-replacer-plugin</groupId>
-				<artifactId>replacer</artifactId>
-				<version>1.5.2</version>
-				<executions>
-					<execution>
-						<phase>prepare-package</phase>
-						<goals>
-							<goal>replace</goal>
-						</goals>
-					</execution>
-				</executions>
-				<configuration>
-					<file>target/classes/plugin.yml</file>
-					<replacements>
-						<replacement>
-							<token>maven-version-number</token>
-							<value>${project.version}</value>
-						</replacement>
-					</replacements>
 				</configuration>
 			</plugin>
 			<plugin>
