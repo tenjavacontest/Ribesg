@@ -8,3 +8,5 @@ Ohai, I'm Ribesg!
 This is the master empty branch!
 
 Jenkins server: http://ci.ribesg.fr/
+
+CB Version: 1.6.4-R2.0
